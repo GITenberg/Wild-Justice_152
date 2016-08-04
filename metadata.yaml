@@ -1,0 +1,23 @@
+_repo: Wild-Justice_152
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sprague, Ruth M.
+    gutenberg_agent_id: '96'
+    url: http://www.gutenberg.org/2009/agents/96
+description: ''
+gutenberg_issued: '1994-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '152'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PS'
+- !lcsh 'Sex discrimination -- Fiction'
+- !lcsh 'Universities and colleges -- Fiction'
+- GITenberg
+title: Wild Justice
+url: http://www.gutenberg.org/ebooks/152
